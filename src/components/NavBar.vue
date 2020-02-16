@@ -25,7 +25,7 @@ export default {
 }
 .link {
     @apply px-2 font-semibold;
-    &:hover{
+    &:hover {
         @apply text-yellow-500;
     }
 }
